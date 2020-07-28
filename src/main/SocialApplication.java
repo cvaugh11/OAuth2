@@ -18,5 +18,4 @@ public class SocialApplication extends WebSecurityConfigurerAdapter {
             .oauth2Login();
         // @formatter:on
     }
-
 }
